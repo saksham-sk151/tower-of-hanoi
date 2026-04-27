@@ -14,7 +14,7 @@ This program solves the Tower of Hanoi puzzle using a **recursive algorithm**, d
 
 ## 🎮 Demo
 
-<img width="800" src="https://kommodo.ai/i/SGcXmLZ5Ref67ZtMkj5Q" />
+<img width="800" src="https://kommodo.ai/i/SGcXmLZ5Ref67ZtMkj5Q](https://img.sanishtech.com/u/8d97e48e1da7d9709b70a7a920f2134b.png" />
 
 
 ## 🚀 Usage
